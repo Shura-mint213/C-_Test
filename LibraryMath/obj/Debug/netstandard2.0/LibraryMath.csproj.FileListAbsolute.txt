@@ -1,0 +1,9 @@
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\bin\Debug\netstandard2.0\LibraryMath.deps.json
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\bin\Debug\netstandard2.0\LibraryMath.dll
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\bin\Debug\netstandard2.0\LibraryMath.pdb
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.csprojAssemblyReference.cache
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.AssemblyInfoInputs.cache
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.AssemblyInfo.cs
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.csproj.CoreCompileInputs.cache
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.dll
+C:\Users\иван\Desktop\C#\LibraryMath\LibraryMath\obj\Debug\netstandard2.0\LibraryMath.pdb
